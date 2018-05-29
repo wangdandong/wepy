@@ -1,0 +1,17 @@
+{
+  "name": "wepy-plugin-uglifyes",
+  "version": "1.0.0",
+  "description": "wepy uglifyes plugin",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "uglify-es"
+  ],
+  "author": "wangdandong",
+  "license": "MIT",
+  "dependencies": {
+    "uglify-es": "^3.3.9"
+  }
+}
